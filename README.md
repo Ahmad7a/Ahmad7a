@@ -1,6 +1,6 @@
 # Who am I🤔? 
 <ul>
-<li> My name is Ahmad Al Arfaj, Cyber Security and digintal forensics student at IAU CCSIT 🧑‍💻 </li>
+<li> My name is Ahmad Al Arfaj, Cyber Security and Digital Forensics student at IAU CCSIT 🧑‍💻 </li>
 <li>i'm seeking to develop my skills in the field,
 Built strong knowledge in programming security tools and a good
 knowledge of Digital Forensics. </li>
