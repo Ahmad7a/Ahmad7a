@@ -4,7 +4,7 @@
 <li>i'm seeking to develop my skills in the field,
 Built strong knowledge in programming security tools and a good
 knowledge of Digital Forensics. </li>
-<script src="https://tryhackme.com/badge/2040521"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ahmed7.alarfaj.png" alt="TryHackMe">
 </ul>
 
 # Contact me📲:
