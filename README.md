@@ -1,10 +1,7 @@
 # Who am I🤔? 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ahmed7.alarfaj.png" alt="TryHackMe">
 <ul>
-<li> My name is Ahmad Al Arfaj, Cyber Security and Digital Forensics student at IAU CCSIT 🧑‍💻 </li>
-<li>i'm seeking to develop my skills in the field,
-Built strong knowledge in programming security tools and a good
-knowledge of Digital Forensics. </li>
+<li> My name is Ahmad Al Arfaj, Cyber Security and Digital Forensics Specialist 🧑‍💻 </li>
 </ul>
 
 # Contact me📲:
